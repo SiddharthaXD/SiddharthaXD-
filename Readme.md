@@ -1,5 +1,5 @@
 <!-- Banner or Header -->
-<h1 align="center">Hi there 👋, I'm Sayan Ghosh</h1>
+<h1 align="center">Hi there 👋, I'm Siddhartha Chatterjee</h1>
 <h3 align="center">🚀 Passionate Developer | Blockchain Enthusiast | Open Source Contributor</h3>
 
 <!-- Typing animation -->
